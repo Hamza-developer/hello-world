@@ -1,3 +1,4 @@
 # hello-world
-my first repository
-this is very cool. I like GitHub
+my first repository.
+This is very cool. I like GitHub.
+hey I'm making another change and you can't do anything :D
